@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\66_119000228_NongThanhNgan\\NongThanhNgan\\NongThanhNgan.csproj": {}
+    "D:\\NongThanhNgan\\NongThanhNgan\\NongThanhNgan.csproj": {}
   },
   "projects": {
-    "D:\\66_119000228_NongThanhNgan\\NongThanhNgan\\NongThanhNgan.csproj": {
+    "D:\\NongThanhNgan\\NongThanhNgan\\NongThanhNgan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\66_119000228_NongThanhNgan\\NongThanhNgan\\NongThanhNgan.csproj",
+        "projectUniqueName": "D:\\NongThanhNgan\\NongThanhNgan\\NongThanhNgan.csproj",
         "projectName": "NongThanhNgan",
-        "projectPath": "D:\\66_119000228_NongThanhNgan\\NongThanhNgan\\NongThanhNgan.csproj",
+        "projectPath": "D:\\NongThanhNgan\\NongThanhNgan\\NongThanhNgan.csproj",
         "packagesPath": "C:\\Users\\PDH\\.nuget\\packages\\",
-        "outputPath": "D:\\66_119000228_NongThanhNgan\\NongThanhNgan\\obj\\",
+        "outputPath": "D:\\NongThanhNgan\\NongThanhNgan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PDH\\AppData\\Roaming\\NuGet\\NuGet.Config"
